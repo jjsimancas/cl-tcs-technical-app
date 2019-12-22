@@ -1,0 +1,22 @@
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog-ext
+   http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd
+   http://www.liquibase.org/xml/ns/dbchangelog
+   http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+
+    <changeSet author="jjsimancas" id="insertInitialData" runOnChange="true">
+        <loadData tableName="productos" file="liquibase-config/data.csv">
+            <column header="nombre_producto" name="nombre_producto" />
+            <column header="descripcion_prod" name="descripcion_prod" />
+            <column header="cantidad" name="cantidad" />
+            <column header="marca_producto" name="marca_producto" />
+            <column header="categoria" name="categoria" />
+        </loadData>
+    </changeSet>
+</databaseChangeLog>
+
+
+
