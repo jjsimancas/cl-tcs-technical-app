@@ -65,6 +65,10 @@ http://localhost:8080/swagger-ui.html#/
 
 ```
 
+## Logging
+El logging se encuentra habilitado para visualizacion de traza en consola y generacion
+de archivo .log en classpath del proyecto.
+
 ## Prueba Unitaria
 Se implemento prueba unitaria del metodo de creacion de registros, donde se mockio dicho 
 metodo para la prueba del flujo ya que las sesiones de base de datos no son levantadas
