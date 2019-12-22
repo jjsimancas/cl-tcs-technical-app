@@ -67,7 +67,7 @@ http://localhost:8080/swagger-ui.html#/
 
 ## Logging
 El logging se encuentra habilitado para visualizacion de traza en consola y generacion
-de archivo .log en classpath del proyecto.
+de archivo .log en classpath del proyecto.e
 
 ## Prueba Unitaria
 Se implemento prueba unitaria del metodo de creacion de registros, donde se mockio dicho 
