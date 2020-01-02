@@ -31,8 +31,7 @@ git clone https://jjsimancas@bitbucket.org/jjsimancas/cl-tcs-technical-app.git
 
 ### Instalación 🔧
 _EL MOTOR DE BASE DE DATOS DEBE ESTAR CORRIENDO CON LA BASE DE DATOS CREADA. LA GENERACION DE TABLAS SERA AUTOMATICA_.
-_POR LO GENERAL LA BASE POR DEFECTO DE POSGRESQL ES POSTGRESS Y YA ESTA EN EL MOTOR. DE NO SER ASI SIMPLEMENTE CREAR
-ESTA.
+_POR LO GENERAL LA BASE POR DEFECTO DE POSGRESQL ES POSTGRES Y YA ESTA EN EL MOTOR.
 
 _Ejecutar el comando en la raiz del proyecto para el empaquetado del mismo._
 
