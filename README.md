@@ -84,7 +84,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [Spring Boot](https://spring.io) - 2.2.0.RELEASE
 * [Java 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - version 1.8.0_221
 * [maven](https://maven.apache.org/) - 3.6.0
-* [MySQL](https://www.mysql.com/) - 8.0.18
+* [PostgreSQL](https://www.postgresql.org/) - 12
 
 
 ## Autor ✒️
